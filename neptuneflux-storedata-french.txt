@@ -2,13 +2,14 @@ Title Display Name:
 Neptune Flux
 
 Title Description:
-Neptune Flux est un jeu d'aventure qui prend place dans un monde océanique de science-fiction plein de mystères et de beautés. Découvrez des épaves surnaturelles, des artéfacts anciens et de sombres secrets.
+Neptune Flux est un jeu d'aventure narratif en monde ouvert prenant place dans un océan futuriste rempli de mystères et de beautés obsédantes. Partez à la découverte d'épaves surnaturelles, d'artéfacts oubliés et de sombres secrets.
 
 Content Display Name:
 Neptune Flux
 
 Content Long Description:
-Neptune Flux est un jeu avec une grande naration. Situé dans un monde océanique de science-fiction plein de mystères et de beautés. Le monde en surface est détruit et la fuite dans l'espace est impossible. Le dernier espoir de survie de l'humanité est l'écosystème intact des profondeurs des mers et A.Q.U.A. qui est le chef de file de la colonisation marine. Dans Neptune Flux, vous assumez le rôle de Sarah, une employée d'A.Q.U.A. qui est chargé de trouver la source de des surcharges d'étranges énergies qui perturbent les opérations. Lorsque vous effectuez les missions d'A.Q.U.A. et explorez le fond des mers, vous découvrirez les sombres secrets qui s'y cachent.
+Neptune Flux est un jeu d'aventure narratif en monde ouvert prenant place dans un océan futuriste rempli de mystères et de beautés obsédantes. Partez à la découverte d'épaves surnaturelles, d'artéfacts oubliés et de sombres secrets.
+Content Long Description: Neptune Flux est un jeu d'aventure narratif en monde ouvert prenant place dans un océan futuriste rempli de mystères et de beautés obsédantes. Le monde en surface est détruit et la fuite vers l'espace est impossible. Le dernier espoir de survie de l'Humanité est l'écosystème intact des profondeurs des mers et A.Q.U.A. qui est le chef de file de la colonisation marine. Dans Neptune Flux, vous assumez le rôle de Sarah, une employée d'A.Q.U.A. qui est chargé de trouver la source d'étranges surcharge d'énergies qui perturbent leurs opérations. Lorsque vous effectuez les missions d'A.Q.U.A. et explorez le fond des mers, vous découvrirez les sombres secrets qui se cachent dans les profondeurs.
 
 - EXPLOREZ L'OCÉAN Naviguer dans un monde ouvert océanique de science-fiction, rempli de secrets merveilleux et surnaturels.
 - TROUVE UN TRÉSOR PERDU Gagnez de l'argent en remplissant les missions pour A.Q.U.A., en trouvant des épaves perdues et en récupérant des marchandises précieuses.
@@ -18,4 +19,4 @@ Download Description:
 Neptune Flux supporte PS VR. Pour jouer en VR, choisissez 'Enable PS VR' dans le menu principal. Une fois dans le jeu, vous pouvez activer et désactiver PS VR à tout moment à partir du menu d'options.
 
 Copyright & Trademark
-Notices: Zoxide Games © 2017 Tous les droits sont réservés
+Zoxide Games © 2017 Tous droits réservés
