@@ -2,7 +2,7 @@ Title Display Name:
 Neptune Flux
 
 Title Description:
-Neptune Flux es un juego de aventura de mundo abierto conducido por una historia que toma lugar en un océano de ciencia ficción lleno de misterio y de belleza fantasmal. Descubre sitios de naufragios sobrenaturales, artefactos antiguos y secretos oscuros.
+Neptune Flux es un juego de aventura de mundo abierto conducido por una historia que toma lugar en un océano de ciencia ficción lleno de misterio y de belleza fantasmal. Descubre ruinas sobrenaturales, artefactos antiguos y secretos oscuros.
 
 Content Display Name:
 Neptune Flux
