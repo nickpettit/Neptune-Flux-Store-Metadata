@@ -8,7 +8,7 @@ Content Display Name:
 Neptune Flux
 
 Content Long Description:
-Neptune Flux es un juego de aventura de mundo abierto conducido por una historia que toma lugar en un océano de ciencia ficción lleno de misterio y de belleza fantasmal. El mundo sobre el agua está destruido y el escape al espacio es imposible. La última esperanza de la humanidad para sobrevivir es el intacto ecosistema del mar profundo, y A.Q.U.A es el líder global en la colonización submarina. En Neptune Flux, tomas el papel de Sarah, una empleada de A.Q.U.A. cuya tarea es encontrar la causa de extraños picos de energía que están interrumpiendo las operaciones de A.Q.U.A. A medida que realices las misiones y explores las profundidades del mar, descubrirás los secretos oscuros que acechan bajo la superficie.
+Neptune Flux es un juego de aventura de mundo abierto conducido por una historia que toma lugar en un océano de ciencia ficción lleno de misterio y de belleza fantasmal. El mundo sobre el agua está destruido y el escape al espacio es imposible. El ecosistema del mar profundo es la última esperanza para la supervivencia de la humanidad, y A.Q.U.A es el líder global en la colonización submarina. En Neptune Flux, tomas el papel de Sarah, una empleada de A.Q.U.A. cuya tarea es encontrar la causa de extraños picos de energía que están interrumpiendo las operaciones de A.Q.U.A. A medida que realices las misiones y explores las profundidades del mar, descubrirás los secretos oscuros que acechan bajo la superficie.
 
 - EXPLORA EL OCÉANO Navega por un océano abierto lleno de maravillas de ciencia ficción y secretos sobrenaturales.
 - ENCUENTRA TESOROS PERDIDOS Gana dinero completando misiones para A.Q.U.A., encontrando naufragios perdidos, y recuperando carga valiosa.
